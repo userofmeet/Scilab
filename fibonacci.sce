@@ -1,4 +1,4 @@
-#User defined function for finding fibonacci sequence of first 10 numbers
+// User defined function for finding fibonacci sequence of first 10 numbers
 
 function[a]=fibo(c)
     x=0
